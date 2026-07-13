@@ -1349,3 +1349,12 @@ input, select, textarea {
 				}
 
 		}
+
+	/* Styling to ensure the new elegant logo fits perfectly */
+	.logo-image {
+	    max-width: 280px;  /* Adjust this width to make the logo larger or smaller */
+	    width: 100%;
+	    height: auto;
+	    vertical-align: middle;
+	    display: inline-block;
+	}
